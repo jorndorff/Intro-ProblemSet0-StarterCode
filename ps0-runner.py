@@ -1,4 +1,4 @@
-# Write your functions in this file. DO NOT write a main program here.
+# Write tests here. This file should import your ps0 module and test that all the functions work.
 
 # is_even
 
