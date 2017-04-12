@@ -38,7 +38,7 @@ The Problems
 Write a boolean function that takes a non-negative integer as a parameter and returns True if the number is even, False if it is odd.
 
 ### num_digits
-Write a function that takes a non-negative integer as a parameter and returns the number of digits in it. You may not cast to string to solve this problem.
+Write a function that takes a non-negative integer as a parameter and returns the number of digits in it. You may not cast to string to solve this problem. Zero is a zero-digit number.
 
 ### sum_digits
 Write a function that takes a non-negative integer as a parameter and returns the sum of its digits.
